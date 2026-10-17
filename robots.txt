@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-01fc92cab2.aumao.cn/sitemap.xml
